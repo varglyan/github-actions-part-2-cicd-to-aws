@@ -5,6 +5,7 @@
 # 1.0          2019        Initial Version
 #
 # Made by Denis Astahov ADV-IT Copyleft (c) 2019
+# Edited by VArg
 #---------------------------------------------------------------------
 name: CI-CD-Pipeline-to-AWS-ElasticBeanstalk
 env:
